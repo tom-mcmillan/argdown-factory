@@ -26,7 +26,8 @@
     "@vuepress/plugin-pwa": "1.8.2",
     "esm": "^3.2.25",
     "lerna": "4.0.0",
-    "vuepress": "1.8.2"
+    "vuepress": "1.8.2",
+    "yarn": "^1.22.22"
   },
   "workspace-sources": {
     "*": [
